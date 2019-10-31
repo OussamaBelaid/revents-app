@@ -27,7 +27,8 @@
     "redux-form": "^7.4.2",
     "redux-thunk": "^2.3.0",
     "revalidate": "^1.2.0",
-    "semantic-ui-react": "^0.87.1"
+    "semantic-ui-react": "^0.87.1",
+    "v2": "0.0.3"
   },
   "scripts": {
     "analyze": "source-map-explorer 'build/static/js/*.js'",
